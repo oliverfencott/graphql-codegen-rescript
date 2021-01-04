@@ -1,7 +1,7 @@
 {
-  "name": "graphql-codegen-reason-client",
-  "description": "A GraphQL Codegen plugin to generate ReasonML types",
-  "respository": "git@github.com:kgoggin/graphql-codegen-reason.git",
+  "name": "graphql-codegen-rescript-client",
+  "description": "A GraphQL Codegen plugin to generate ReScript types",
+  "respository": "git@github.com:oliverfencott/graphql-codegen-rescript.git",
   "author": "kgoggin <kyle@kylegoggin.com>",
   "version": "1.0.0-beta.3",
   "main": "dist/index.js",
@@ -64,7 +64,8 @@
     "node",
     "types",
     "typings",
-    "reasonml"
+    "reasonml",
+    "rescript"
   ],
   "bugs": {
     "url": "https://github.com/kgoggin/graphql-codegen-reason/issues"
